@@ -1,0 +1,17 @@
+About: Contains mongoose.schema
+
+RESTful principles(GET, POST, PUT, PATCH, DELETE)
+Model View Controller pattern
+run Javascript server-side
+Asynchoronous and Event Driven - all API's are Non-Blocking I/O
+Single Threaded & highly scalable - Can run multiplbe instances of the same 
+				    application on different services
+
+/products
+	GET - get a list of all products
+	POST - add a new product
+/products/id
+	GET - to get a single product of its id
+	PATCH - to update a single product by its id
+	DELETE - to delete a single product by its id
+HTTP words
